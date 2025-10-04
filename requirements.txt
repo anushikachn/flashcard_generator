@@ -1,0 +1,9 @@
+spacy==3.8.7
+nltk==3.9.1
+pdfplumber==0.11.7
+streamlit==1.50.0
+pandas==2.3.3
+
+
+
+
